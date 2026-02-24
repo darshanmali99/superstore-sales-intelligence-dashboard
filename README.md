@@ -32,7 +32,3 @@ An interactive Power BI dashboard analyzing sales performance, profitability, an
 - Data Modeling
 - PostgreSQL (SQL analysis)
 
-## 📷 Dashboard Preview
-![Page 1](superstore_dashboard_page1.png)
-![Page 2](superstore_dashboard_page2.png)
-![Page 3](superstore_dashboard_page3.png)
